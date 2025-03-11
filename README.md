@@ -1,3 +1,4 @@
+
 # @lydio/bubbles
 
 **DISCLAIMER:**
@@ -5,6 +6,11 @@
 #### 🚨This project is NOT open source. It is exposed to satisfy requirements related to my business.
 
 _Thank you for your understanding._
+
+Copyright © 2015-2025 Alex Stevovich. All Rights Reserved.
+No permission is granted to use, copy, modify, distribute, sublicense, or create derivative works of this software, in whole or in part, without explicit prior written permission from the copyright holder.
+
+See `LICENSE` and `TRADEMARK.md` for more.
 
 ---
 
